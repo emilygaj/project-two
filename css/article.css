@@ -2,6 +2,66 @@
 
 img,
 video {
-  width: 100%;
+  width: 80%;
   height: auto;
+}
+
+img {
+  padding-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption {
+  padding-bottom: 1rem;
+  max-width: 700px;
+  font-size: 1pc;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+h1,
+h2 {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+h1 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 2.6pc;
+}
+
+h2 {
+  font-weight: lighter;
+}
+
+hr {
+  width: 15%;
+}
+
+p {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 1.3pc;
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+.credits {
+  font-style: italic;
+}
+
+.article {
+  padding-top: 1rem;
+}
+
+.title {
+  font-size: 2.6pc;
 }
