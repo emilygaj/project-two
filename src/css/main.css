@@ -8,6 +8,18 @@ video {
   margin-right: auto;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+li {
+  list-style: none;
+  text-align: right;
+}
+
 figcaption {
   padding-bottom: 1rem;
   max-width: 700px;
