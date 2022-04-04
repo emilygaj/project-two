@@ -12,6 +12,7 @@ header {
   justify-content: space-between;
   padding-right: 5%;
   padding-left: 5%;
+  box-shadow: 10px 0px 5px grey;
 }
 
 .italics {
@@ -82,7 +83,7 @@ p {
   box-shadow: 0 0 0.25rem 0 rgba(0, 0, 0, 0.16);
 }
 
-.card p {
+.card h2 {
   padding: 2rem;
 }
 .card img {
