@@ -11,11 +11,20 @@ header {
   justify-content: space-between;
   padding-right: 5%;
   padding-left: 5%;
+  box-shadow: 0px 2px 5px grey;
 }
 
 li {
   list-style: none;
   text-align: right;
+}
+
+.footer p {
+  max-width: 90%;
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 1pc;
 }
 
 img {

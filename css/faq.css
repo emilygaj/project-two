@@ -11,6 +11,11 @@ header {
   justify-content: space-between;
   padding-right: 5%;
   padding-left: 5%;
+  box-shadow: 0px 2px 5px grey;
+}
+
+#footer {
+  text-align: center;
 }
 
 li {
