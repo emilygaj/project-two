@@ -14,6 +14,10 @@ header {
   padding-left: 5%;
 }
 
+.italics {
+  font-style: italic;
+}
+
 .headerimage {
   width: 80%;
   height: auto;
@@ -24,6 +28,17 @@ header {
 li {
   list-style: none;
   text-align: right;
+}
+
+h1 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 2.6pc;
+}
+
+h2 {
+  font-weight: lighter;
+  font-size: 1.3pc;
 }
 
 figcaption {
