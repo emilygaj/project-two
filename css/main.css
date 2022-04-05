@@ -6,23 +6,28 @@ video {
   margin-left: auto;
   margin-right: auto;
 }
+a:visited {
+  color: black;
+  text-decoration: none;
+}
 
 header {
   display: flex;
+  align-items: center;
   justify-content: space-between;
   padding-right: 5%;
   padding-left: 5%;
   background-color: white;
   box-shadow: 0px 2px 5px grey;
   width: 100%;
-  height: 10%;
-  max-height: 20%;
+  max-height: 30%;
 }
 
 .fa-solid,
 .fa-circle-chevron-down {
   color: white;
   font-size: 4pc;
+  padding-bottom: 2rem;
 }
 
 section.backgroundimage {
@@ -34,7 +39,8 @@ section.backgroundimage {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding-bottom: 2rem;
+  padding-bottom: 0.5rem;
+  align-items: center;
 }
 
 .footer p {
